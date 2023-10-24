@@ -18,9 +18,6 @@ const Home = () => {
                         <button className="h-9 px-4 bg-[#f8f9fa] text-sm rounded-md border border-[#f8f9fa] hover:border-[#dadce0] hover:shadow-c2">
                             Google Search
                         </button>
-                        <button className="h-9 px-4 bg-[#f8f9fa] text-sm rounded-md border border-[#f8f9fa] hover:border-[#dadce0] hover:shadow-c2">
-                            I'm Feeling Lucky
-                        </button>
                     </div>
                 </div>
             </main>

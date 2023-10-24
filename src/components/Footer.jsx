@@ -7,7 +7,7 @@ const Footer = () => {
      border-[#dadce0]">
         <span className="text-[#70757a] text-[15px] 
         leading-none">
-            India
+            Wahdan Najmil Fata
         </span>
     </div>
 
